@@ -4,7 +4,7 @@ import { Image, Button, StyleSheet, Text, View, TextInput, ScrollView } from 're
 const logo = {
   uri: "https://cengage.force.com/resource/1607465003000/loginIcon",
 };
-const HomeNica = ({ navigation }) => {
+const Login = ({ navigation }) => {
  
   const [user, setUser] = useState("");
   const [password, setPasword] = useState("");
@@ -47,7 +47,7 @@ const HomeNica = ({ navigation }) => {
   );
 };
 
-export default HomeNica
+export default Login
 
 const styles = StyleSheet.create({
         containerkevin: {
