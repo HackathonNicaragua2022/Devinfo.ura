@@ -107,10 +107,10 @@ const styles = StyleSheet.create({
         marginTop: 25
     },
     imgbus:{
-        width:'40%',
-        height: 150,
+        width:'85%',
+        height: 130,
         borderRadius: 20,
-        marginLeft: 90,
+        marginLeft: 25,
         marginTop: 10,
 
     }
